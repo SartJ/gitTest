@@ -1,0 +1,1 @@
+Hello this is just a test with the purpose to set up git on a new device.
